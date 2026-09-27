@@ -13,5 +13,11 @@ class Student:
 
 
 student1 = Student("Nirav Gamit", "IT001", "B.Tech IT", 5)
+student2 = Student("Rahul Patel", "IT002", "B.Tech IT", 5)
+
 
 student1.display_student()
+
+print()
+
+student2.display_student()
